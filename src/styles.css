@@ -1,10 +1,12 @@
 
 .app {
   padding: 20px;
+ 
 }
 
 h1 {
   text-align: center;
+  
 }
 
 .filter-form {
@@ -16,13 +18,14 @@ h1 {
 }
 
 .movie-card {
-  width: 200px;
-  height: 100px;
+  width: 150px;
+  height: 400px;
   margin: 10px;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  align-content: center;
 }
 
 .movie-card .card-img-top {
